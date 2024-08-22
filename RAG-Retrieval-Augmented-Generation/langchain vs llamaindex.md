@@ -4,7 +4,7 @@ LangChain ve LlamaIndex (önceki adıyla GPT Index), dil modelleriyle çalışma
 
 - **LangChain:**
     
-    - **Amaç:** LangChain, büyük dil modelleri (LLM'ler) için bir çerçeve sağlar ve LLM'lerin zincirleme işlemler yapmasını kolaylaştırır. Zincirleme işlemler, dil modellerinin birden fazla adımı içeren süreçlerde kullanılmasını sağlar. Örneğin, bir LLM'yi bir dizi ardışık görevde kullanmak, bir modelin çıktısını başka bir modelin girdisi olarak kullanmak gibi senaryolarda #langchain LangChain etkili bir çözümdür.
+    - **Amaç:** LangChain, büyük dil modelleri (LLM'ler) için bir çerçeve sağlar ve LLM'lerin zincirleme işlemler yapmasını kolaylaştırır. Zincirleme işlemler, dil modellerinin birden fazla adımı içeren süreçlerde kullanılmasını sağlar. Örneğin, bir LLM'yi bir dizi ardışık görevde kullanmak, bir modelin çıktısını başka bir modelin girdisi olarak kullanmak gibi senaryolarda #langchain #LangChain etkili bir çözümdür.
     - **Odak:** LLM'lerin farklı araçlarla ve veri kaynaklarıyla entegrasyonunu sağlar. Örneğin, API çağrıları yapabilir, veritabanlarıyla etkileşime girebilir ve bu süreçleri yapılandırılmış bir iş akışı içinde düzenleyebilir.
 - **LlamaIndex:**
     

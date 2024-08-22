@@ -73,14 +73,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Embeddings/preprocess and store documents in a vector store.md",
+                "file": "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "975ed22fdc455163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sentence-transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6163bb6e5c591a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ollama/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f25dcb0f6e25c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sentence-transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83e6534400292ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sentence-transformers library and Hugging Face.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cdf5cc91a7a2f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sentence-transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf329f726f9d00c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5a22ffe0eb81cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -109,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "langchain",
+                "query": "tag:#First",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Embeddings/preprocess and store documents in a vector store.md",
+                "file": "Model Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Embeddings/preprocess and store documents in a vector store.md",
+                "file": "Model Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Embeddings/preprocess and store documents in a vector store.md"
+                "file": "Model Architecture.md"
               }
             }
           }
@@ -207,33 +291,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ed8406f23e1e097",
+  "active": "b3822fac48e363cb",
   "lastOpenFiles": [
+    "Vector Store",
+    "sentence-transformers.md",
+    "Model Architecture.md",
+    "Ollama/Ollama vs OllamaEmbeddings.md",
+    "Ollama/OllamaEmbeddings.md",
+    "Ollama/Ollama offers a variety of pre-trained models.md",
+    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
+    "sentence-transformers library and Hugging Face.md",
+    "langchain vs llamaindex.md",
+    "Git Clone disable TLS SSL verification for a single git command.md",
+    "Ollama/Untitled.md",
+    "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
+    "Pre-trained Embdeings Models.md",
+    "langchain/Embeddings.md",
+    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
     "1-Embeddings/what are Emebedings.md",
+    "1-Embeddings/preprocess and store documents in a vector store.md",
     "langchain/EXAMPLE1/code Explanation.md",
     "2-Areas/RAG Retrieval Augmented Generation/llamaindex/Embeddings.md",
     "2-Areas/RAG Retrieval Augmented Generation/llamaindex",
     "2-Areas/RAG Retrieval Augmented Generation",
     "2-Areas",
     "llm lerde rag nedir.md",
-    "Pre-trained Embdeings Models.md",
-    "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
     "llamaindex/Welcome to LlamaIndex.md",
     "llamaindex/Embeddings.md",
     "langchain/ObsidianLoader.md",
     "langchain/langchain.embeddings.ollama.md",
     "langchain/Indexing.md",
-    "langchain/Embeddings.md",
     "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
-    "langchain/EXAMPLE1/rag-tutorial-v2.md",
-    "1-Embeddings/preprocess and store documents in a vector store.md",
-    "langchain vs llamaindex.md",
-    "Ollama/Ollama vs OllamaEmbeddings.md",
-    "Ollama/Ollama offers a variety of pre-trained models.md",
     "Ollama",
-    "2-Areas/RAG Retrieval Augmented Generation/langchain/Embeddings.md",
     "2-Areas/RAG Retrieval Augmented Generation/langchain",
-    "Welcome.md",
     "llamaindex",
     "langchain/EXAMPLE1",
     "langchain",
