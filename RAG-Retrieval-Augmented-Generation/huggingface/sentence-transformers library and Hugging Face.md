@@ -1,4 +1,4 @@
-The sentence-transformers library and Hugging Face are two interconnected entities in the field of natural language processing (NLP). Here's a breakdown of their relationship:
+The #sentence-transformers library and Hugging Face are two interconnected entities in the field of natural language processing (NLP). Here's a breakdown of their relationship:
 
 **sentence-transformers**
 

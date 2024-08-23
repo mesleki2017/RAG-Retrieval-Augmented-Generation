@@ -1,4 +1,4 @@
-FAISS and Chroma are both open-source libraries designed for efficient similarity search in high-dimensional vector spaces. They are widely used in various applications, including recommendation systems, image and video search, and natural language processing.
+#FAISS and #Chroma are both open-source libraries designed for efficient similarity search in high-dimensional vector spaces. They are widely used in various applications, including recommendation systems, image and video search, and natural language processing.
 
 **Key Differences:**
 

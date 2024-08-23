@@ -163,11 +163,11 @@ if __name__ == "__main__":
     - `PyPDFDirectoryLoader`: For loading PDF documents from a directory.
     - `RecursiveCharacterTextSplitter`: For splitting text into chunks.
     - `Document`: For representing documents.
-    - `Chroma`: For creating a vector store.
+    - `Chroma`: For creating a #vector store.
     - `OllamaEmbeddings`: For generating embeddings.
 2. **Define the `get_embedding_function()` function:**
     
-    - Retrieves the embedding function from Ollama.
+    - Retrieves the embedding function from #Ollama.
 3. **Define global variables:**
     
     - `CHROMA_PATH`: Path to the Chroma database.
@@ -175,7 +175,7 @@ if __name__ == "__main__":
 4. **Define the `main()` function:**
     
     - Parses command-line arguments.
-    - Clears the Chroma database if the `--reset` flag is provided.
+    - Clears the #Chroma database if the `--reset` flag is provided.
     - Loads documents from the `DATA_PATH` directory.
     - Splits documents into chunks.
     - Adds chunks to the Chroma database.
@@ -254,7 +254,7 @@ To integrate an LLM into the provided code, you'll need to add a component that 
 **4. Modify the `add_to_chroma()` function:**
 
 - After adding documents to Chroma, create an LLM-powered chatbot or query interface.
-- Use the LLM to process user queries or prompts.
+- Use the #LLM to process user queries or prompts.
 - Query the Chroma vector store to find relevant documents.
 - Use the LLM to generate responses based on the retrieved documents.
 

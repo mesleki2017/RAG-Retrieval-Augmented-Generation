@@ -1,5 +1,6 @@
 https://stackoverflow.com/questions/11621768/how-can-i-make-git-accept-a-self-signed-certificate
 
+#pre-trained 
 ### To disable TLS/SSL verification for a single git command
 
 try passing `-c` to `git` with the proper config variable, or use [Flow's answer](https://stackoverflow.com/a/19363404/194894):

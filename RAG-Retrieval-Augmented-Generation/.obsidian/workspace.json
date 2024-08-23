@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langchain/EXAMPLE1/code Explanation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b444d7c63d93cbbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "langchain/Indexing.md",
+                "file": "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langchain/Indexing.md",
+                "file": "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langchain/Indexing.md",
+                "file": "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "langchain/Indexing.md"
+                "file": "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md"
               }
             }
           }
@@ -207,43 +195,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3822fac48e363cb",
+  "active": "0ab47070d8375b0b",
   "lastOpenFiles": [
-    "LangChain Text Splitters.md",
+    "Model Architecture.md",
+    "Git Clone disable TLS SSL verification for a single git command.md",
+    "1-Embeddings/preprocess and store documents in a vector store.md",
+    "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
+    "Vector Store/Chroma/open-source vector store.md",
+    "huggingface/sentence-transformers library and Hugging Face.md",
+    "llm lerde rag nedir.md",
     "langchain/EXAMPLE1/code Explanation.md",
-    "text_splitters_and_chunks",
+    "Pre-trained Embeddings Models.md",
+    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
+    "Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
+    "llamaindex/Using a local LLM.md",
+    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
+    "1-Embeddings/what are Emebedings.md",
+    "2-Areas/RAG Retrieval Augmented Generation/llamaindex/Embeddings.md",
+    "2-Areas/RAG Retrieval Augmented Generation/langchain/Embeddings.md",
+    "mycodes/rag-tutorial-v2-main/data/cccc.pdf",
+    "Vector Store/FAISS vs Chroma.md",
     "langchain/Indexing.md",
+    "LangChain Text Splitters.md",
+    "text_splitters_and_chunks",
     "tokenizer/Tokenizers.md",
     "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
     "langchain/The below document loaders allow you to load PDF documents..md",
     "mycodes/rag-tutorial-v2-main/text_spliter_chunk-1.py",
     "mycodes/rag-tutorial-v2-main/PyPDFDirectoryLoader-1.py",
     "langchain/Embeddings.md",
-    "2-Areas/RAG Retrieval Augmented Generation/langchain/Embeddings.md",
-    "1-Embeddings/what are Emebedings.md",
-    "2-Areas/RAG Retrieval Augmented Generation/llamaindex/Embeddings.md",
     "2-Areas/RAG Retrieval Augmented Generation/langchain",
     "2-Areas/RAG Retrieval Augmented Generation/llamaindex",
     "2-Areas/RAG Retrieval Augmented Generation",
     "2-Areas",
-    "1-Embeddings/preprocess and store documents in a vector store.md",
-    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
-    "Pre-trained Embeddings Models.md",
     "1-Embeddings/embedding_models",
     "Ollama/Ollama offers a variety of pre-trained models.md",
     "Vector Store/Key Components of a Vector Store Data.md",
     "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
-    "huggingface/sentence-transformers.md",
-    "Ollama/all-minilm l6-v2.md",
-    "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
-    "Ollama/OllamaEmbeddings.md",
-    "Vector Store/several vector stores.md",
-    "langchain/langchain.embeddings.ollama.md",
-    "mycodes/rag-tutorial-v2-main/sil1.py",
-    "mycodes/rag-tutorial-v2-main/README.md",
-    "llamaindex/Using a local LLM.md",
-    "mycodes/rag-tutorial-v2-main/__pycache__/query_data.cpython-311.pyc",
-    "llamaindex/Welcome to LlamaIndex.md",
-    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md"
+    "mycodes/rag-tutorial-v2-main/sil1.py"
   ]
 }

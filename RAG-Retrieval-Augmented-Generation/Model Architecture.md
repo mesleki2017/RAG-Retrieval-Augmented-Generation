@@ -1,5 +1,5 @@
 **Model Architecture**
-- **OllamaEmbeddings:** This is a proprietary model developed by Ollama, likely based on a Transformer architecture. The specific details of the architecture are not publicly disclosed.
+- **OllamaEmbeddings:** This is a proprietary model developed by #Ollama, likely based on a Transformer architecture. The specific details of the architecture are not publicly disclosed. #embedding 
 - **SentenceTransformer:** This is a pre-trained model based on the Sentence-BERT architecture, which is a combination of a pre-trained BERT model and a siamese network.
 
 

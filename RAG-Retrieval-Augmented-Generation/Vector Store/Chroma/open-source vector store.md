@@ -4,7 +4,7 @@
 
 1. **High Performance:**
     
-    - **Fast Retrieval:** Chroma is optimized for rapid similarity searches across large datasets. It allows for quick querying of vectors to find the most similar items, which is crucial for real-time applications.
+    - **Fast Retrieval:** #Chroma is optimized for rapid similarity searches across large datasets. It allows for quick querying of vectors to find the most similar items, which is crucial for real-time applications.
     - **Efficient Indexing:** The underlying architecture is designed to efficiently index vectors, ensuring that the retrieval process is both fast and scalable.
 2. **Scalability:**
     
