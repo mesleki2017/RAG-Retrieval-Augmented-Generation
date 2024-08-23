@@ -1,5 +1,7 @@
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 
+#sentence-transformers
+
 No, `"all-MiniLM-L6-v2"` is not a local file by default. It is the name of a pre-trained model hosted by the `sentence-transformers` library, which is built on top of the `transformers` library by Hugging Face.
 
 ### How it Works:
@@ -56,5 +58,22 @@ Filtering content: 100% (5/5), 433.05 MiB | 4.63 MiB/s, done.
 
 ```python
 from sentence_transformers import SentenceTransformer
+
 model = SentenceTransformer('C://Users//bulent.cesur//Documents//all-MiniLM-L6-v2')
+
+# Step 2: Define the input sentence
+
+sentence = "Hugging Face transformers are amazing!"
+
+# Step 3: Generate embeddings for the sentence
+
+embeddings = model.encode(sentence)
+
+# Step 4: Display the results
+
+print(f"Sentence: {sentence}")
+
+print(f"Embedding vector (first 5 dimensions): {embeddings[:5]}...")
+
+print(f"Embedding vector length: {len(embeddings)}")
 ```

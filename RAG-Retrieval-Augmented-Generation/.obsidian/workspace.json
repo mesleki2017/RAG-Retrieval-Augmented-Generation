@@ -4,167 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "1b660b34553e3566",
+        "id": "f99d2ec1edd7ee81",
         "type": "tabs",
         "children": [
           {
-            "id": "fea88bca0cb94bba",
+            "id": "3859bcb3ba4f6376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langchain vs llamaindex.md",
+                "file": "huggingface/sentence-transformers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2d9290426ba13f2a",
+            "id": "a192e43c62f7bf5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
+                "file": "Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc9db8068785d311",
+            "id": "45c0f494576ce49d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-trained Embdeings Models.md",
+                "file": "tokenizer/Tokenizers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61949fad5af93cb4",
+            "id": "5c62a12816a38730",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ollama/Ollama offers a variety of pre-trained models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55f55cee625a2eed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "langchain/EXAMPLE1/rag-tutorial-v2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ed8406f23e1e097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "975ed22fdc455163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sentence-transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6163bb6e5c591a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ollama/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f25dcb0f6e25c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sentence-transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d83e6534400292ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sentence-transformers library and Hugging Face.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cdf5cc91a7a2f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sentence-transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf329f726f9d00c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Model Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5a22ffe0eb81cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#First",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +146,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -269,17 +155,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Model Architecture.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,42 +175,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3822fac48e363cb",
+  "active": "5c62a12816a38730",
   "lastOpenFiles": [
-    "Vector Store",
-    "sentence-transformers.md",
-    "Model Architecture.md",
-    "Ollama/Ollama vs OllamaEmbeddings.md",
-    "Ollama/OllamaEmbeddings.md",
-    "Ollama/Ollama offers a variety of pre-trained models.md",
-    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
-    "sentence-transformers library and Hugging Face.md",
-    "langchain vs llamaindex.md",
-    "Git Clone disable TLS SSL verification for a single git command.md",
-    "Ollama/Untitled.md",
-    "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
-    "Pre-trained Embdeings Models.md",
-    "langchain/Embeddings.md",
-    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
-    "1-Embeddings/what are Emebedings.md",
-    "1-Embeddings/preprocess and store documents in a vector store.md",
-    "langchain/EXAMPLE1/code Explanation.md",
-    "2-Areas/RAG Retrieval Augmented Generation/llamaindex/Embeddings.md",
-    "2-Areas/RAG Retrieval Augmented Generation/llamaindex",
-    "2-Areas/RAG Retrieval Augmented Generation",
-    "2-Areas",
-    "llm lerde rag nedir.md",
+    "mycodes/rag-tutorial-v2-main/README.md",
+    "llamaindex/Using a local LLM.md",
+    "mycodes/rag-tutorial-v2-main/__pycache__/query_data.cpython-311.pyc",
+    "mycodes/rag-tutorial-v2-main/__pycache__/get_embedding_function.cpython-311.pyc",
+    "mycodes/rag-tutorial-v2-main/__pycache__",
+    "mycodes/rag-tutorial-v2-main/data/cccc.pdf",
+    "mycodes/rag-tutorial-v2-main/data",
+    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/link_lists.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/length.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/header.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/data_level0.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96",
     "llamaindex/Welcome to LlamaIndex.md",
-    "llamaindex/Embeddings.md",
-    "langchain/ObsidianLoader.md",
-    "langchain/langchain.embeddings.ollama.md",
-    "langchain/Indexing.md",
-    "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
-    "Ollama",
-    "2-Areas/RAG Retrieval Augmented Generation/langchain",
-    "llamaindex",
-    "langchain/EXAMPLE1",
-    "langchain",
-    "1-Embeddings"
+    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
+    "Ollama/OllamaEmbeddings.md",
+    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
+    "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
+    "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
+    "Vector Store/Key Components of a Vector Store Data.md",
+    "Vector Store/FAISS vs Chroma.md",
+    "Vector Store/Chroma/open-source vector store.md",
+    "Vector Store/several vector stores.md",
+    "huggingface/sentence-transformers.md",
+    "huggingface/sentence-transformers library and Hugging Face.md",
+    "1-Embeddings/preprocess and store documents in a vector store.md",
+    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
+    "tokenizer/Tokenizers.md",
+    "Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
+    "Pre-trained Embdeings Models.md",
+    "Ollama/Ollama offers a variety of pre-trained models.md",
+    "Ollama/all-minilm l6-v2.md",
+    "langchain vs llamaindex.md",
+    "langchain/EXAMPLE1/rag-tutorial-v2.md",
+    "Model Architecture.md",
+    "Ollama/Ollama vs OllamaEmbeddings.md"
   ]
 }

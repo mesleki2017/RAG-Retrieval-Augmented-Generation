@@ -23,7 +23,7 @@ Both LangChain and LlamaIndex have emerged as powerful frameworks for data index
 **LangChain:**
 
 1. **Document Loading:** Load documents using appropriate #loaders.
-2. **Embedding:** Convert documents into #embeddings.
+2. **Embedding:** Convert documents into #embedding.
 3. **Vector Store:** Store embeddings in a #vector store.
 4. **Retrieval:** Use the vector store to retrieve relevant documents based on a query's embedding.
 5. **Chain Composition:** Combine retrieval with other components (e.g., language models) to create complex workflows.
