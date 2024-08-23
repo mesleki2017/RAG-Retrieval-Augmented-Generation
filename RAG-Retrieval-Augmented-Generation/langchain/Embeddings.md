@@ -1,4 +1,4 @@
-#langchain [[llamaindex/Embeddings|Embeddings]][[langchain/Embeddings|Embeddings]]
+#langchain 
 The Embeddings class is a class designed for interfacing with text embedding models. There are lots of embedding model providers (OpenAI, Cohere, Hugging Face, etc) - this class is designed to provide a standard interface for all of them.
 
 Embeddings create a vector representation of a piece of text. This is useful because it means we can think about text in the vector space, and do things like semantic search where we look for pieces of text that are most similar in the vector space.

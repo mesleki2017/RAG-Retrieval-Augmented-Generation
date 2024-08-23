@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "huggingface/sentence-transformers.md",
+                "file": "langchain/Indexing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ab47070d8375b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "langchain/EXAMPLE1/code Explanation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b444d7c63d93cbbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "langchain/Indexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,12 +71,16 @@
             "id": "5c62a12816a38730",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ollama/all-minilm l6-v2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +90,7 @@
     "type": "split",
     "children": [
       {
-        "id": "88bd85453705b05b",
+        "id": "d5718a79b90c2504",
         "type": "tabs",
         "children": [
           {
@@ -81,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chunk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "langchain/Indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "langchain/Indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "langchain/Indexing.md"
+              }
             }
           }
         ],
@@ -175,42 +207,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c62a12816a38730",
+  "active": "b3822fac48e363cb",
   "lastOpenFiles": [
+    "LangChain Text Splitters.md",
+    "langchain/EXAMPLE1/code Explanation.md",
+    "text_splitters_and_chunks",
+    "langchain/Indexing.md",
+    "tokenizer/Tokenizers.md",
+    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
+    "langchain/The below document loaders allow you to load PDF documents..md",
+    "mycodes/rag-tutorial-v2-main/text_spliter_chunk-1.py",
+    "mycodes/rag-tutorial-v2-main/PyPDFDirectoryLoader-1.py",
+    "langchain/Embeddings.md",
+    "2-Areas/RAG Retrieval Augmented Generation/langchain/Embeddings.md",
+    "1-Embeddings/what are Emebedings.md",
+    "2-Areas/RAG Retrieval Augmented Generation/llamaindex/Embeddings.md",
+    "2-Areas/RAG Retrieval Augmented Generation/langchain",
+    "2-Areas/RAG Retrieval Augmented Generation/llamaindex",
+    "2-Areas/RAG Retrieval Augmented Generation",
+    "2-Areas",
+    "1-Embeddings/preprocess and store documents in a vector store.md",
+    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
+    "Pre-trained Embeddings Models.md",
+    "1-Embeddings/embedding_models",
+    "Ollama/Ollama offers a variety of pre-trained models.md",
+    "Vector Store/Key Components of a Vector Store Data.md",
+    "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
+    "huggingface/sentence-transformers.md",
+    "Ollama/all-minilm l6-v2.md",
+    "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
+    "Ollama/OllamaEmbeddings.md",
+    "Vector Store/several vector stores.md",
+    "langchain/langchain.embeddings.ollama.md",
+    "mycodes/rag-tutorial-v2-main/sil1.py",
     "mycodes/rag-tutorial-v2-main/README.md",
     "llamaindex/Using a local LLM.md",
     "mycodes/rag-tutorial-v2-main/__pycache__/query_data.cpython-311.pyc",
-    "mycodes/rag-tutorial-v2-main/__pycache__/get_embedding_function.cpython-311.pyc",
-    "mycodes/rag-tutorial-v2-main/__pycache__",
-    "mycodes/rag-tutorial-v2-main/data/cccc.pdf",
-    "mycodes/rag-tutorial-v2-main/data",
-    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/link_lists.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/length.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/header.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96/data_level0.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/efd3c3e7-bfaf-4bba-a013-87537ea9cf96",
     "llamaindex/Welcome to LlamaIndex.md",
-    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
-    "Ollama/OllamaEmbeddings.md",
-    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
-    "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
-    "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
-    "Vector Store/Key Components of a Vector Store Data.md",
-    "Vector Store/FAISS vs Chroma.md",
-    "Vector Store/Chroma/open-source vector store.md",
-    "Vector Store/several vector stores.md",
-    "huggingface/sentence-transformers.md",
-    "huggingface/sentence-transformers library and Hugging Face.md",
-    "1-Embeddings/preprocess and store documents in a vector store.md",
-    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
-    "tokenizer/Tokenizers.md",
-    "Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
-    "Pre-trained Embdeings Models.md",
-    "Ollama/Ollama offers a variety of pre-trained models.md",
-    "Ollama/all-minilm l6-v2.md",
-    "langchain vs llamaindex.md",
-    "langchain/EXAMPLE1/rag-tutorial-v2.md",
-    "Model Architecture.md",
-    "Ollama/Ollama vs OllamaEmbeddings.md"
+    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md"
   ]
 }

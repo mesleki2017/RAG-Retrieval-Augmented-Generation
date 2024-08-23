@@ -8,7 +8,7 @@ from get_embedding_function import get_embedding_function
 CHROMA_PATH = "chroma"
 
 PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
+Answer the question based only on the following context, answer in Turkish:
 
 {context}
 
@@ -20,11 +20,7 @@ Answer the question based on the above context: {question}
 
 def main():
     # Create CLI.
-    parser = argparse.ArgumentParser()
-    parser.add_argument("query_text", type=str, help="The query text.")
-    args = parser.parse_args()
-    query_text = args.query_text
-    query_rag(query_text)
+    query_rag("asansörlerde arızalar nedir?")
 
 
 def query_rag(query_text: str):

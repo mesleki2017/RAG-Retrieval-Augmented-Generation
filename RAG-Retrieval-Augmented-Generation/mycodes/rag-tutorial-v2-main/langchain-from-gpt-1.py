@@ -4,18 +4,14 @@ from sentence_transformers import SentenceTransformer
 from langchain.llms import Ollama
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
-
+from langchain.document_loaders import PyPDFDirectoryLoader
 # 1. Load the pre-trained embedding model
 embedding_model = SentenceTransformer('C://Users//bulent.cesur//Documents//all-MiniLM-L6-v2')
 
+loader = PyPDFDirectoryLoader("data")
+documents = loader.load()
 # 2. Example documents or text chunks to index
-documents = [
-    "Document 1 text about elevators.",
-    "Document 2 text about maintenance.",
-    "Document 3 text about safety protocols.",
-    "Document 4 text about elevator installation.",
-    "Document 5 text about elevator repair."
-]
+
 
 # 3. Generate embeddings for the documents
 embeddings = embedding_model.encode(documents, convert_to_tensor=False)

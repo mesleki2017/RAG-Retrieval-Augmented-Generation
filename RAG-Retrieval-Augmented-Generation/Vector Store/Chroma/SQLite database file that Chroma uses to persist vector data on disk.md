@@ -10,7 +10,7 @@ Yes, **Chroma** uses a specific file format called `chroma.db` to store its vect
     - **Embeddings**: The vector #embedding s  are stored in tables within the SQLite database, where each row corresponds to a specific data item (e.g., a text snippet, an image).
     - **Metadata**: Alongside embeddings, Chroma stores metadata such as IDs, labels, and other contextual information in the same database. This metadata is stored in a structured format, allowing for efficient retrieval and filtering.
 3. **Indexing for Fast Retrieval**:
-    - **Indexes**: Chroma creates indexes within the `chroma.db` file to facilitate fast similarity searches. These indexes are optimized for quick access to the most similar #vectors, reducing the search time even with large datasets.
+    - **Indexes**: Chroma creates indexes within the `chroma.db` file to facilitate fast similarity searches. These indexes are optimized for quick access to the most similar #vector s, reducing the search time even with large datasets.
 4. **Compatibility and Portability**:
     
     - **Portable**: The `chroma.db` file is portable, meaning it can be easily shared or moved between different systems. This makes it convenient for collaboration or deployment in different environments.
