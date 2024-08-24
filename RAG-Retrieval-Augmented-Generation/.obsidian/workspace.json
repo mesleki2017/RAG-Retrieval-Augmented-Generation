@@ -59,8 +59,24 @@
             "id": "241458b2e88fafd1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad25aff2818c1ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -100,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#embedding",
+                "query": "tag:#framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5
   },
   "right": {
     "id": "92689ae3ba8b9034",
@@ -166,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langchain/Indexing.md",
+                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langchain/Indexing.md",
+                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "langchain/Indexing.md"
+                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md"
               }
             }
           }
@@ -228,8 +244,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "241458b2e88fafd1",
+  "active": "ad25aff2818c1ac7",
   "lastOpenFiles": [
+    "langchain/Embeddings.md",
+    "langchain/Indexing.md",
+    "mermaid-examples.md",
+    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
     "chunks and tokens are not the same.md",
     "The ABCs of AI Transformers, Tokens, and Embeddings.md",
     "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
@@ -255,11 +275,7 @@
     "llm lerde rag nedir.md",
     "langchain/EXAMPLE1/code Explanation.md",
     "Pre-trained Embeddings Models.md",
-    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
-    "llamaindex/Using a local LLM.md",
     "mycodes/rag-tutorial-v2-main/data/cccc.pdf",
-    "Vector Store/FAISS vs Chroma.md",
-    "langchain/Indexing.md",
     "text_splitters_and_chunks",
     "mycodes/rag-tutorial-v2-main/text_spliter_chunk-1.py",
     "mycodes/rag-tutorial-v2-main/PyPDFDirectoryLoader-1.py",
