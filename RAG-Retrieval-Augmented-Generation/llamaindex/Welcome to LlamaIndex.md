@@ -1,6 +1,6 @@
 https://docs.llamaindex.ai/en/stable/
 
-LlamaIndex is a framework for building context-augmented generative AI applications with [LLMs](https://en.wikipedia.org/wiki/Large_language_model).
+#LlamaIndex is a #framework for building context-augmented generative AI applications with [LLMs](https://en.wikipedia.org/wiki/Large_language_model).
 
 - [Introduction](https://docs.llamaindex.ai/en/stable/#introduction)
     
