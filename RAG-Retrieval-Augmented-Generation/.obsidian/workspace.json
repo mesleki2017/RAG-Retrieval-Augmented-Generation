@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
+                "file": "1-Embeddings/Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,34 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The ABCs of AI Transformers, Tokens, and Embeddings.md",
+                "file": "langchain/EXAMPLE1/rag-tutorial-v2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "241458b2e88fafd1",
+            "id": "b674564b4ea50d2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad25aff2818c1ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -85,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
+                "file": "1-Embeddings/Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#framework",
+                "query": "OllamaEmbedding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,11 +146,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 294.5
   },
   "right": {
     "id": "92689ae3ba8b9034",
@@ -182,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "langchain/Build a Retrieval Augmented Generation (RAG) App.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -244,37 +225,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad25aff2818c1ac7",
+  "active": "b674564b4ea50d2a",
   "lastOpenFiles": [
+    "langchain/EXAMPLE1/rag-tutorial-v2.md",
+    "Ollama/Ollama vs OllamaEmbeddings.md",
     "langchain/Embeddings.md",
+    "langchain/EXAMPLE1/code Explanation.md",
+    "Ollama/OllamaEmbeddings.md",
+    "Vector Store/FAISS vs Chroma.md",
+    "Llama3 is a transformer model.md",
+    "llamaindex/Embeddings.md",
+    "1-Embeddings/Pre-trained Embeddings Models.md",
+    "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
+    "Ollama/Ollama vs OllamaEmbeddings 1.md",
+    "langchain/langchain.embeddings.ollama.md",
+    "langchain/The below document loaders allow you to load PDF documents..md",
+    "llamaindex/Welcome to LlamaIndex.md",
+    "llamaindex/Using a local LLM.md",
+    "langchain/ObsidianLoader.md",
     "langchain/Indexing.md",
-    "mermaid-examples.md",
-    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
-    "chunks and tokens are not the same.md",
-    "The ABCs of AI Transformers, Tokens, and Embeddings.md",
     "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
-    "1-Embeddings/what are Emebedings.md",
-    "2-Areas/RAG Retrieval Augmented Generation/langchain/Embeddings.md",
+    "The ABCs of AI Transformers, Tokens, and Embeddings.md",
+    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
+    "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
+    "Model Architecture.md",
+    "1-Embeddings/Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
+    "1-Embeddings/What Are Word and Sentence Embeddings.md",
+    "tokenizer/chunks and tokens are not the same.md",
+    "tokenizer/Tokenizers.md",
     "2-Areas/RAG Retrieval Augmented Generation/langchain",
     "2-Areas/RAG Retrieval Augmented Generation",
     "2-Areas",
-    "Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
-    "2-Areas/RAG Retrieval Augmented Generation/llamaindex/Embeddings.md",
-    "What Are Word and Sentence Embeddings.md",
-    "1-Embeddings/preprocess and store documents in a vector store.md",
-    "Llama3 is a transformer model.md",
-    "llamaindex/Embeddings.md",
-    "langchain/The below document loaders allow you to load PDF documents..md",
-    "llamaindex/Welcome to LlamaIndex.md",
-    "Vector Store/Chroma/SQLite database file that Chroma uses to persist vector data on disk.md",
-    "Model Architecture.md",
-    "Git Clone disable TLS SSL verification for a single git command.md",
-    "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
-    "Vector Store/Chroma/open-source vector store.md",
-    "huggingface/sentence-transformers library and Hugging Face.md",
-    "llm lerde rag nedir.md",
-    "langchain/EXAMPLE1/code Explanation.md",
-    "Pre-trained Embeddings Models.md",
     "mycodes/rag-tutorial-v2-main/data/cccc.pdf",
     "text_splitters_and_chunks",
     "mycodes/rag-tutorial-v2-main/text_spliter_chunk-1.py",

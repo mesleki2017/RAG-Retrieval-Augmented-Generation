@@ -1,5 +1,5 @@
 #embedding 
-**Embeddings** are numerical representations of text that capture its semantic meaning. Essentially, they transform text into a dense, real-valued vector.
+**Embeddings** are numerical representations of text that capture its #semantic meaning. Essentially, they transform text into a dense, real-valued #vector.
 
 **Imagine a word like "cat."** An embedding for this word might be a vector of numbers like [0.23, 0.15, -0.37, ...]. This vector doesn't represent the literal characters of the word, but rather its contextual meaning. Similar words, like "dog" or "kitten," would have embeddings that are close to each other in vector space, indicating their semantic similarity.
 

@@ -1,5 +1,5 @@
 Both #LangChain and #LlamaIndex leverage #pre-trained language models (LLMs) to enhance their capabilities. Here's a list of popular pre-trained models commonly used with these frameworks:
-
+#embedding 
 ### LangChain
 
 - **Hugging Face Transformers:** A vast library of pre-trained models, including BERT, GPT-2, RoBERTa, and more. #Hugging 
