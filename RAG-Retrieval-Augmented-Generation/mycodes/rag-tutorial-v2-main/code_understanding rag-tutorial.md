@@ -47,12 +47,12 @@ def main():
     #documents_to_chroma()
     query_rag("Geleneksel primer gerilim kontrolünde motorun devir sayısı nedir, türkçe cevap ver")
 
-  
+#embedding 
 def get_embedding_function():
     embeddings = OllamaEmbeddings(model="nomic-embed-text")
     return embeddings
 
-
+#parser
 def documents_to_chroma():
         # Check if the database should be cleared (using the --clear flag).
     parser = argparse.ArgumentParser()
@@ -67,12 +67,12 @@ def documents_to_chroma():
     chunks = split_documents(documents)
     add_to_chroma(chunks)
 
-  
+#document_loader
 def load_documents():
     document_loader = PyPDFDirectoryLoader(DATA_PATH)
     return document_loader.load()
 
-  
+#text_splitter #chunk 
 def split_documents(documents: list[Document]):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=800,
@@ -83,7 +83,7 @@ def split_documents(documents: list[Document]):
     return text_splitter.split_documents(documents)
 
 
-
+#Chroma #chunk 
 def add_to_chroma(chunks: list[Document]):
     # Load the existing database.
     db = Chroma(
@@ -109,7 +109,7 @@ def add_to_chroma(chunks: list[Document]):
     else:
         print("✅ No new documents to add")
 
-  
+#chunk 
 def calculate_chunk_ids(chunks):
     # This will create IDs like "data/monopoly.pdf:6:2"
     # Page Source : Page Number : Chunk Index
@@ -132,12 +132,12 @@ def calculate_chunk_ids(chunks):
         chunk.metadata["id"] = chunk_id
     return chunks
 
-  
+#Chroma 
 def clear_database():
     if os.path.exists(CHROMA_PATH):
         shutil.rmtree(CHROMA_PATH)
 
-
+#Ollama #LLM #Llama3 #prompt
 def query_rag(query_text: str):
     # Prepare the DB.
     embedding_function = get_embedding_function()
