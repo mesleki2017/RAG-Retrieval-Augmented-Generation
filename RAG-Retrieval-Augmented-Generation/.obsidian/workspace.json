@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3859bcb3ba4f6376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "langchain/Indexing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ab47070d8375b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Embeddings/Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f18f114af2c8973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The ABCs of AI Transformers, Tokens, and Embeddings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e7a1db4d2529446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "langchain/EXAMPLE1/rag-tutorial-v2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b674564b4ea50d2a",
             "type": "leaf",
             "state": {
@@ -64,43 +16,19 @@
             }
           },
           {
-            "id": "a192e43c62f7bf5a",
+            "id": "32c9142a3fb4984f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Embeddings/Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c0f494576ce49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tokenizer/Tokenizers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c62a12816a38730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ollama/all-minilm l6-v2.md",
+                "file": "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OllamaEmbedding",
+                "query": "path:\"mycodes/rag-tutorial-v2-main/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md"
+              }
             }
           }
         ],
@@ -216,20 +147,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b674564b4ea50d2a",
+  "active": "32c9142a3fb4984f",
   "lastOpenFiles": [
-    "langchain/EXAMPLE1/rag-tutorial-v2.md",
+    "mycodes/rag-tutorial-v2-main/all_code_in_one_page.py",
+    "mycodes/rag-tutorial-v2-main/config.ini",
+    "mycodes/rag-tutorial-v2-main/sil2.py",
+    "mycodes/rag-tutorial-v2-main/sil1.py",
+    "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
+    "Vector Store/Key Components of a Vector Store Data.md",
+    "langchain/LangChain Text Splitters.md",
+    "langchain vs llamaindex.md",
+    "langchain/langchain.embeddings.ollama.md",
+    "Vector Store/Chroma/open-source vector store.md",
+    "Git Clone disable TLS SSL verification for a single git command.md",
+    "huggingface/sentence-transformers.md",
     "Ollama/Ollama vs OllamaEmbeddings.md",
+    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
+    "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
     "langchain/Embeddings.md",
+    "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
+    "Ollama/Ollama vs OllamaEmbeddings 1.md",
+    "langchain/EXAMPLE1/rag-tutorial-v2.md",
     "langchain/EXAMPLE1/code Explanation.md",
     "Ollama/OllamaEmbeddings.md",
     "Vector Store/FAISS vs Chroma.md",
@@ -237,31 +184,15 @@
     "llamaindex/Embeddings.md",
     "1-Embeddings/Pre-trained Embeddings Models.md",
     "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
-    "Ollama/Ollama vs OllamaEmbeddings 1.md",
-    "langchain/langchain.embeddings.ollama.md",
     "langchain/The below document loaders allow you to load PDF documents..md",
     "llamaindex/Welcome to LlamaIndex.md",
     "llamaindex/Using a local LLM.md",
-    "langchain/ObsidianLoader.md",
-    "langchain/Indexing.md",
-    "1-Embeddings/Embeddings create a vector representation of a piece of text.md",
-    "The ABCs of AI Transformers, Tokens, and Embeddings.md",
-    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
-    "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
-    "Model Architecture.md",
-    "1-Embeddings/Transformer model and embedding model are related concepts, but they are not the same. Here's how they differ.md",
-    "1-Embeddings/What Are Word and Sentence Embeddings.md",
-    "tokenizer/chunks and tokens are not the same.md",
-    "tokenizer/Tokenizers.md",
     "2-Areas/RAG Retrieval Augmented Generation/langchain",
     "2-Areas/RAG Retrieval Augmented Generation",
     "2-Areas",
     "mycodes/rag-tutorial-v2-main/data/cccc.pdf",
     "text_splitters_and_chunks",
     "mycodes/rag-tutorial-v2-main/text_spliter_chunk-1.py",
-    "mycodes/rag-tutorial-v2-main/PyPDFDirectoryLoader-1.py",
-    "2-Areas/RAG Retrieval Augmented Generation/llamaindex",
-    "1-Embeddings/embedding_models",
-    "mycodes/rag-tutorial-v2-main/sil1.py"
+    "mycodes/rag-tutorial-v2-main/PyPDFDirectoryLoader-1.py"
   ]
 }

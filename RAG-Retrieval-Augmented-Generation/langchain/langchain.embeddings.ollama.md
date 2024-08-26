@@ -1,4 +1,4 @@
-#langchain
+#langchain #Ollama #embedding 
 https://api.python.langchain.com/en/latest/embeddings/langchain_community.embeddings.ollama.OllamaEmbeddings.html
 ```python
 

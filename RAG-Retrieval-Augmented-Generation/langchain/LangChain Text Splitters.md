@@ -6,7 +6,7 @@ When you want to deal with long pieces of text, it is necessary to split up that
 
 At a high level, text splitters work as following:
 
-1. Split the text up into small, semantically meaningful chunks (often sentences).
+1. Split the text up into small, semantically meaningful #chunk s (often sentences).
 2. Start combining these small chunks into a larger chunk until you reach a certain size (as measured by some function).
 3. Once you reach that size, make that chunk its own piece of text and then start creating a new chunk of text with some overlap (to keep context between chunks).
 

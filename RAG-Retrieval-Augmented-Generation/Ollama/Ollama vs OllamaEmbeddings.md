@@ -4,7 +4,7 @@
 
 ### Ollama(model="llama2")
 
-- **Purpose:** This command is used to interact with the Llama 2 language model directly. It allows you to provide prompts and receive text-based responses.
+- **Purpose:** This command is used to interact with the Llama 2 language model directly. It allows you to provide prompts and receive text-based responses. #LLM 
 - **Functionality:** You can use it for tasks like:
     - Generating text
     - Translating languages
@@ -13,11 +13,11 @@
         
 ### OllamaEmbeddings(model="nomic-embed-text")
 
-- **Purpose:** This command is used to generate numerical representations (embeddings) of text data. Embeddings are essential for tasks like:
+- **Purpose:** This command is used to generate numerical representations ( #embedding s) of text data. Embeddings are essential for tasks like:
     - Text similarity search
     - Recommendation systems
     - Question answering
-- **Functionality:** It converts text into a numerical format that can be used by machine learning algorithms to understand and process the semantic meaning of the text.
+- **Functionality:** It converts text into a numerical format that can be used by machine learning algorithms to understand and process the #semantic meaning of the text.
 
 **In summary:**
 

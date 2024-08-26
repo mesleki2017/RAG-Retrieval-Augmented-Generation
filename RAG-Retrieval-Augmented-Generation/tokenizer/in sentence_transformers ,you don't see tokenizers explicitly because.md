@@ -17,7 +17,7 @@ print(f"Embedding vector length: {len(embeddings)}")
 
 ```
 
-In the last code example, you don't see tokenizers explicitly because the `SentenceTransformer` model (like `all-MiniLM-L6-v2`) abstracts away the tokenization process. #sentence-transformers 
+In the last code example, you don't see tokenizers explicitly because the `SentenceTransformer` model (like `all-MiniLM-L6-v2`) abstracts away the tokenization process. #sentence-transformers #embedding 
 
 ### Here's Why:
 
@@ -31,7 +31,7 @@ In the last code example, you don't see tokenizers explicitly because the `Sente
 
 ### How It Works Internally:
 
-- **Tokenization**: Internally, `SentenceTransformer` uses a tokenizer that matches the underlying transformer model (e.g., MiniLM in `all-MiniLM-L6-v2`). This tokenizer breaks down the input text into tokens (e.g., words, subwords), converts them into token IDs, and prepares them for input into the model.
+- **Tokenization**: Internally, `SentenceTransformer` uses a tokenizer that matches the underlying transformer model (e.g., MiniLM in `all-MiniLM-L6-v2`). This tokenizer breaks down the input text into tokens (e.g., words, subwords), converts them into token IDs, and prepares them for input into the model. #tokens 
 - **Embedding Generation**: After tokenization, the transformer model processes these token IDs to generate embeddings. The `encode` method then returns these embeddings directly.
 
 ### Summary:

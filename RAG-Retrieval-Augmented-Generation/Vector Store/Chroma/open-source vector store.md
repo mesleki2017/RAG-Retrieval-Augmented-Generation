@@ -4,7 +4,7 @@
 
 1. **High Performance:**
     
-    - **Fast Retrieval:** #Chroma is optimized for rapid similarity searches across large datasets. It allows for quick querying of vectors to find the most similar items, which is crucial for real-time applications.
+    - **Fast Retrieval:** #Chroma is optimized for rapid similarity searches across large datasets. It allows for quick querying of #vector s to find the most similar items, which is crucial for real-time applications.
     - **Efficient Indexing:** The underlying architecture is designed to efficiently index vectors, ensuring that the retrieval process is both fast and scalable.
 2. **Scalability:**
     
@@ -31,7 +31,7 @@
 
 1. **Natural Language Processing (NLP):**
     
-    - **Semantic Search:** Chroma can be used to perform semantic search in large text corpora by indexing and retrieving text embeddings, allowing for searches based on meaning rather than keywords.
+    - **Semantic Search:** Chroma can be used to perform #semantic search in large text corpora by indexing and retrieving text embeddings, allowing for searches based on meaning rather than keywords.
     - **Question-Answering Systems:** Integrating Chroma with a Q&A system enables the retrieval of relevant passages or documents based on user queries.
 2. **Image Recognition:**
     

@@ -2,13 +2,13 @@
 
 The primary difference between "Ollama(model="llama3")" and "OllamaEmbeddings(model="llama3")" lies in their intended use cases:
 
-**Ollama(model="llama3")**:
+**Ollama(model="llama3")**: #LLM 
 
 - **Purpose:** General-purpose language model.
 - **Functionality:** Can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.  
 - **Usage:** Can be used for various tasks like writing emails, stories, code, scripts, musical pieces, email replies, etc.
 
-**OllamaEmbeddings(model="llama3")**:
+**OllamaEmbeddings(model="llama3")**: #embedding 
 
 - **Purpose:** Specialized for generating embeddings.
 - **Functionality:** Creates numerical representations (embeddings) of text data.

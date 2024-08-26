@@ -5,6 +5,6 @@
 - **Indexes**:
     - These structures are created to speed up the retrieval of similar vectors. Depending on the algorithm, the index could be stored in a tree, graph, or other optimized data structure.
 - **Persistence**:
-    - The vector store typically persists this data in a database or file system, optimized for quick read/write operations. Popular storage formats include JSON, binary files, or database tables.
+    - The #vector store typically persists this data in a database or file system, optimized for quick read/write operations. Popular storage formats include JSON, binary files, or database tables.
 
 #Persistence
