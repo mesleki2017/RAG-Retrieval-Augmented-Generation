@@ -19,12 +19,24 @@
             "id": "32c9142a3fb4984f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ac80092f23ef807",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,13 +160,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32c9142a3fb4984f",
+  "active": "6ac80092f23ef807",
   "lastOpenFiles": [
+    "mycodes/rag-tutorial-v2-main/chroma/chroma.sqlite3-journal",
+    "mycodes/rag-tutorial-v2-main/chroma/chroma.sqlite3",
+    "mycodes/rag-tutorial-v2-main/chroma/dd4e57b1-3c37-4e5b-a423-24f5d14a215a/link_lists.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/dd4e57b1-3c37-4e5b-a423-24f5d14a215a/length.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/dd4e57b1-3c37-4e5b-a423-24f5d14a215a/data_level0.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/dd4e57b1-3c37-4e5b-a423-24f5d14a215a/header.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/dd4e57b1-3c37-4e5b-a423-24f5d14a215a",
+    "mycodes/rag-tutorial-v2-main/chroma/309b0a48-c5dc-4990-87d1-5a5e4ee40531/link_lists.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/309b0a48-c5dc-4990-87d1-5a5e4ee40531/length.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/309b0a48-c5dc-4990-87d1-5a5e4ee40531/data_level0.bin",
+    "mycodes/rag-tutorial-v2-main/chroma/309b0a48-c5dc-4990-87d1-5a5e4ee40531/header.bin",
+    "chunks and  adding chunk_id every chunk.md",
     "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
-    "mycodes/rag-tutorial-v2-main/all_code_in_one_page.py",
-    "mycodes/rag-tutorial-v2-main/config.ini",
-    "mycodes/rag-tutorial-v2-main/sil2.py",
-    "mycodes/rag-tutorial-v2-main/sil1.py",
     "Vector Store/Key Components of a Vector Store Data.md",
     "langchain/LangChain Text Splitters.md",
     "langchain vs llamaindex.md",
@@ -177,13 +197,6 @@
     "1-Embeddings/Pre-trained Embeddings Models.md",
     "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
     "langchain/The below document loaders allow you to load PDF documents..md",
-    "llamaindex/Welcome to LlamaIndex.md",
-    "llamaindex/Using a local LLM.md",
-    "2-Areas/RAG Retrieval Augmented Generation/langchain",
-    "2-Areas/RAG Retrieval Augmented Generation",
-    "2-Areas",
-    "mycodes/rag-tutorial-v2-main/data/cccc.pdf",
-    "text_splitters_and_chunks",
-    "mycodes/rag-tutorial-v2-main/text_spliter_chunk-1.py"
+    "llamaindex/Welcome to LlamaIndex.md"
   ]
 }
