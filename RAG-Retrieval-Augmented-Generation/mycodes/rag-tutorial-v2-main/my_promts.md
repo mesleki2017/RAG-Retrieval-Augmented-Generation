@@ -1,0 +1,2 @@
+
+"use ollama for llm and embeddings","langchain",data fplder ="data",vectore store folder=chroma","vectore store =chroma","dont use Chroma Client ","text splitter","chunks","chunk id","PyPDFDirectoryLoader",""dont use LlamaIndex,"embedding model = "llama3"","llm model ="llama3"","fully local","dont use client methods", "dont use llama.cpp",make RAG app

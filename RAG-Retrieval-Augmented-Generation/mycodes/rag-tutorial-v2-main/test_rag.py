@@ -29,8 +29,8 @@ def query_and_validate(question: str, expected_response: str):
         expected_response=expected_response, actual_response=response_text
     )
 
-    #model = Ollama(model="llama3")
-    model = Ollama(model="mistral")
+    model = Ollama(model="llama3")
+    #model = Ollama(model="mistral")
     evaluation_results_str = model.invoke(prompt)
     evaluation_results_str_cleaned = evaluation_results_str.strip().lower()
 
@@ -49,4 +49,4 @@ def query_and_validate(question: str, expected_response: str):
             f"Invalid evaluation result. Cannot determine if 'true' or 'false'."
         )
 
-query_and_validate("Geleneksel primer gerilim kontrolünde motorun devir sayısı nedir, türkçe cevap ver","aaa")
+query_and_validate("İşletme gerilimlerine göre kablolar nedir, türkçe cevap ver","aaa")
