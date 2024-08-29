@@ -28,6 +28,6 @@ if False:
     index.storage_context.persist(persist_dir="myllamaindex")
 
 query_engine = index.as_query_engine()
-response = query_engine.query("Konsantrik  İletken nedir?")
+response = query_engine.query("kablo çeşitleri nelerdir?")
 
 print(response)

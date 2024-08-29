@@ -214,13 +214,20 @@
   },
   "active": "97d29234db7c4e1a",
   "lastOpenFiles": [
+    "mycodes/rag-tutorial-v2-main/llama_index_ornk-1.py",
+    "mycodes/rag-tutorial-v2-main/sil1 copy.py",
+    "mycodes/rag-tutorial-v2-main/myllamaindex/image__vector_store.json",
+    "mycodes/rag-tutorial-v2-main/myllamaindex/default__vector_store.json",
+    "mycodes/rag-tutorial-v2-main/myllamaindex/graph_store.json",
+    "mycodes/rag-tutorial-v2-main/myllamaindex/index_store.json",
+    "mycodes/rag-tutorial-v2-main/myllamaindex/docstore.json",
+    "mycodes/rag-tutorial-v2-main/myllamaindex",
     "Llama3 RAG on Google Colab.md",
     "Llama 3 and Langchain Locally.md",
     "what is llama cpp.md",
     "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
     "mycodes/rag-tutorial-v2-main/README.md",
     "mycodes/rag-tutorial-v2-main/langchain_sentence_transformers-1.py",
-    "mycodes/rag-tutorial-v2-main/sil1 copy.py",
     "mycodes/rag-tutorial-v2-main/chroma/chroma.sqlite3-journal",
     "mycodes/rag-tutorial-v2-main/data/ffff.pdf",
     "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
@@ -234,12 +241,6 @@
     "The ABCs of AI Transformers, Tokens, and Embeddings.md",
     "what is chroma client.md",
     "Git Clone disable TLS SSL verification for a single git command.md",
-    "mycodes/rag-tutorial-v2-main/read-web-page-and-llm.py",
-    "mycodes/rag-tutorial-v2-main/chroma/676c82e9-e2e5-4c3e-bb94-84cceaa918c6/link_lists.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/676c82e9-e2e5-4c3e-bb94-84cceaa918c6/length.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/676c82e9-e2e5-4c3e-bb94-84cceaa918c6/data_level0.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/676c82e9-e2e5-4c3e-bb94-84cceaa918c6/header.bin",
-    "mycodes/rag-tutorial-v2-main/chroma/676c82e9-e2e5-4c3e-bb94-84cceaa918c6",
     "Vector Store/Key Components of a Vector Store Data.md",
     "langchain/LangChain Text Splitters.md",
     "langchain/langchain.embeddings.ollama.md",
@@ -248,7 +249,6 @@
     "Ollama/Ollama vs OllamaEmbeddings.md",
     "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
     "langchain/Embeddings.md",
-    "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
-    "Ollama/Ollama vs OllamaEmbeddings 1.md"
+    "langchain/Build a Retrieval Augmented Generation (RAG) App.md"
   ]
 }
