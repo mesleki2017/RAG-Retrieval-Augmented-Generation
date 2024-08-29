@@ -8,6 +8,7 @@ import shutil
 from langchain_community.embeddings.ollama import OllamaEmbeddings
 from langchain_community.llms.ollama import Ollama
 from langchain.schema.document import Document
+
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_community.vectorstores import Chroma

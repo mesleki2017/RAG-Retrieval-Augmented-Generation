@@ -1,5 +1,4 @@
 
-import argparse
 import os
 import shutil
 
@@ -38,20 +37,18 @@ Actual Response: {actual_response}
 
 def main():
     documents_to_chroma()
-    #query_rag("Geleneksel primer gerilim kontrolünde motorun devir sayısı nedir, türkçe cevap ver")
+    while True:
+        print("soru girin")
+        xxx = input()
+        query_rag(xxx)
 
 def get_embedding_function():
     embeddings = OllamaEmbeddings(model="nomic-embed-text")
     return embeddings
 
 def documents_to_chroma():
-        # Check if the database should be cleared (using the --clear flag).
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--reset", action="store_true", help="Reset the database.")
-    args = parser.parse_args()
-    if args.reset:
-        print("✨ Clearing Database")
-        clear_database()
+    if False:
+     clear_database()
 
     documents = load_documents()
     chunks = split_documents(documents)
@@ -146,6 +143,10 @@ def query_rag(query_text: str):
     # Search the DB.
     print("Search the DB")
     results = db.similarity_search_with_score(query_text, k=5)
+    
+    for result in results:
+        print("--------------similarity_search_with_score--------------------")
+        print(result)
 
     context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
     prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
