@@ -63,12 +63,28 @@
             "id": "6ffec095dcf510f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Llama3 RAG on Google Colab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d29234db7c4e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Llama 3 and Langchain Locally.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mycodes/rag-tutorial-v2-main/README.md",
+                "file": "Llama 3 and Langchain Locally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mycodes/rag-tutorial-v2-main/README.md",
+                "file": "Llama 3 and Langchain Locally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mycodes/rag-tutorial-v2-main/README.md"
+                "file": "Llama 3 and Langchain Locally.md"
               }
             }
           }
@@ -196,11 +212,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88f32f99516f2032",
+  "active": "97d29234db7c4e1a",
   "lastOpenFiles": [
+    "Llama3 RAG on Google Colab.md",
+    "Llama 3 and Langchain Locally.md",
+    "what is llama cpp.md",
     "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
     "mycodes/rag-tutorial-v2-main/README.md",
-    "Llama3 RAG on Google Colab.md",
     "mycodes/rag-tutorial-v2-main/langchain_sentence_transformers-1.py",
     "mycodes/rag-tutorial-v2-main/sil1 copy.py",
     "mycodes/rag-tutorial-v2-main/chroma/chroma.sqlite3-journal",
@@ -215,7 +233,6 @@
     "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
     "The ABCs of AI Transformers, Tokens, and Embeddings.md",
     "what is chroma client.md",
-    "what is llama cpp.md",
     "Git Clone disable TLS SSL verification for a single git command.md",
     "mycodes/rag-tutorial-v2-main/read-web-page-and-llm.py",
     "mycodes/rag-tutorial-v2-main/chroma/676c82e9-e2e5-4c3e-bb94-84cceaa918c6/link_lists.bin",
@@ -232,7 +249,6 @@
     "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
     "langchain/Embeddings.md",
     "langchain/Build a Retrieval Augmented Generation (RAG) App.md",
-    "Ollama/Ollama vs OllamaEmbeddings 1.md",
-    "langchain/EXAMPLE1/rag-tutorial-v2.md"
+    "Ollama/Ollama vs OllamaEmbeddings 1.md"
   ]
 }
