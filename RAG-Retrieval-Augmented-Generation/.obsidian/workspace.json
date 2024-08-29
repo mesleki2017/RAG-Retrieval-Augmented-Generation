@@ -77,8 +77,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Llama 3 and Langchain Locally.md",
-                "mode": "preview",
+                "file": "llamaindex/Chroma and llamamindex.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Llama 3 and Langchain Locally.md",
+                "file": "llamaindex/Chroma and llamamindex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Llama 3 and Langchain Locally.md",
+                "file": "llamaindex/Chroma and llamamindex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Llama 3 and Langchain Locally.md"
+                "file": "llamaindex/Chroma and llamamindex.md"
               }
             }
           }
@@ -214,6 +214,8 @@
   },
   "active": "97d29234db7c4e1a",
   "lastOpenFiles": [
+    "Llama 3 and Langchain Locally.md",
+    "llamaindex/Chroma and llamamindex.md",
     "mycodes/rag-tutorial-v2-main/llama_index_ornk-1.py",
     "mycodes/rag-tutorial-v2-main/sil1 copy.py",
     "mycodes/rag-tutorial-v2-main/myllamaindex/image__vector_store.json",
@@ -223,13 +225,11 @@
     "mycodes/rag-tutorial-v2-main/myllamaindex/docstore.json",
     "mycodes/rag-tutorial-v2-main/myllamaindex",
     "Llama3 RAG on Google Colab.md",
-    "Llama 3 and Langchain Locally.md",
     "what is llama cpp.md",
     "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
     "mycodes/rag-tutorial-v2-main/README.md",
     "mycodes/rag-tutorial-v2-main/langchain_sentence_transformers-1.py",
     "mycodes/rag-tutorial-v2-main/chroma/chroma.sqlite3-journal",
-    "mycodes/rag-tutorial-v2-main/data/ffff.pdf",
     "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
     "chunks and  adding chunk_id every chunk.md",
     "langchain vs llamaindex.md",
