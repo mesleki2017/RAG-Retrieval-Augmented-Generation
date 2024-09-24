@@ -77,14 +77,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llamaindex/Chroma and llamamindex.md",
+                "file": "what is llama cpp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d74dbcb4ec3e897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is RAG better than fine-tuning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "llamaindex/Chroma and llamamindex.md",
+                "file": "Is RAG better than fine-tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "llamaindex/Chroma and llamamindex.md",
+                "file": "Is RAG better than fine-tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "llamaindex/Chroma and llamamindex.md"
+                "file": "Is RAG better than fine-tuning.md"
               }
             }
           }
@@ -212,10 +224,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97d29234db7c4e1a",
+  "active": "1d74dbcb4ec3e897",
   "lastOpenFiles": [
-    "Llama 3 and Langchain Locally.md",
+    "what is llama cpp.md",
+    "Is RAG better than fine-tuning.md",
+    "Untitled",
     "llamaindex/Chroma and llamamindex.md",
+    "Llama 3 and Langchain Locally.md",
     "mycodes/rag-tutorial-v2-main/llama_index_ornk-1.py",
     "mycodes/rag-tutorial-v2-main/sil1 copy.py",
     "mycodes/rag-tutorial-v2-main/myllamaindex/image__vector_store.json",
@@ -225,11 +240,9 @@
     "mycodes/rag-tutorial-v2-main/myllamaindex/docstore.json",
     "mycodes/rag-tutorial-v2-main/myllamaindex",
     "Llama3 RAG on Google Colab.md",
-    "what is llama cpp.md",
     "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
     "mycodes/rag-tutorial-v2-main/README.md",
     "mycodes/rag-tutorial-v2-main/langchain_sentence_transformers-1.py",
-    "mycodes/rag-tutorial-v2-main/chroma/chroma.sqlite3-journal",
     "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
     "chunks and  adding chunk_id every chunk.md",
     "langchain vs llamaindex.md",
@@ -248,7 +261,6 @@
     "huggingface/sentence-transformers.md",
     "Ollama/Ollama vs OllamaEmbeddings.md",
     "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md",
-    "langchain/Embeddings.md",
-    "langchain/Build a Retrieval Augmented Generation (RAG) App.md"
+    "langchain/Embeddings.md"
   ]
 }
