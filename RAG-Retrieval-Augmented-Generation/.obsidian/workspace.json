@@ -106,9 +106,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c376aca5d9f2250b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Llama3 is a transformer model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is RAG better than fine-tuning.md",
+                "file": "Llama3 is a transformer model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Is RAG better than fine-tuning.md",
+                "file": "Llama3 is a transformer model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is RAG better than fine-tuning.md"
+                "file": "Llama3 is a transformer model.md"
               }
             }
           }
@@ -236,10 +248,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7af09f7b10d9e37c",
+  "active": "c376aca5d9f2250b",
   "lastOpenFiles": [
-    "RAG vs. Fine-Tuning.md",
+    "Model Architecture.md",
+    "what is chroma client.md",
+    "1-Embeddings/these vector embeddings are typically generated with so-called embedding models..md",
     "Is RAG better than fine-tuning.md",
+    "RAG vs. Fine-Tuning.md",
     "what is llama cpp.md",
     "Untitled",
     "llamaindex/Chroma and llamamindex.md",
@@ -262,17 +277,14 @@
     "Llama3 is a transformer model.md",
     "llm lerde rag nedir.md",
     "mermaid-examples.md",
-    "Model Architecture.md",
     "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
     "The ABCs of AI Transformers, Tokens, and Embeddings.md",
-    "what is chroma client.md",
     "Git Clone disable TLS SSL verification for a single git command.md",
     "Vector Store/Key Components of a Vector Store Data.md",
     "langchain/LangChain Text Splitters.md",
     "langchain/langchain.embeddings.ollama.md",
     "Vector Store/Chroma/open-source vector store.md",
     "huggingface/sentence-transformers.md",
-    "Ollama/Ollama vs OllamaEmbeddings.md",
-    "tokenizer/in sentence_transformers ,you don't see tokenizers explicitly because.md"
+    "Ollama/Ollama vs OllamaEmbeddings.md"
   ]
 }
