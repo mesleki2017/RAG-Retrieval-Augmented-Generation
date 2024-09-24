@@ -27,3 +27,5 @@ RAG (Retrieval-Augmented Generation) connects an LLM to a curated database to im
 
 
 https://www.montecarlodata.com/blog-rag-vs-fine-tuning/#:~:text=RAG%20involves%20augmenting%20an%20LLM%20with%20access%20to%20a%20curated,its%20performance%20on%20specific%20tasks.
+
+https://www.ibm.com/think/topics/rag-vs-fine-tuning
