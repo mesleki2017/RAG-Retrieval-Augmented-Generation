@@ -4,123 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f99d2ec1edd7ee81",
+        "id": "029e31e9179604c2",
         "type": "tabs",
         "children": [
           {
-            "id": "b674564b4ea50d2a",
+            "id": "37a6f368a63b5059",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "88f32f99516f2032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mycodes/rag-tutorial-v2-main/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32c9142a3fb4984f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mycodes/rag-tutorial-v2-main/code_understanding rag-tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ac80092f23ef807",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "23c7d6d58b717d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what is llama cpp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ffec095dcf510f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Llama3 RAG on Google Colab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97d29234db7c4e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what is llama cpp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d74dbcb4ec3e897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Is RAG better than fine-tuning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7af09f7b10d9e37c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Is RAG better than fine-tuning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c376aca5d9f2250b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Llama3 is a transformer model.md",
-                "mode": "source",
-                "source": false
-              }
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -155,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -163,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -186,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Llama3 is a transformer model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -203,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Llama3 is a transformer model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -217,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -225,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Llama3 is a transformer model.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -248,8 +155,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c376aca5d9f2250b",
+  "active": "37a6f368a63b5059",
   "lastOpenFiles": [
+    "Llama3 is a transformer model.md",
     "Model Architecture.md",
     "what is chroma client.md",
     "1-Embeddings/these vector embeddings are typically generated with so-called embedding models..md",
@@ -274,7 +182,6 @@
     "A Deep Dive into LangChain vs. LlamaIndex for Data Indexing and Retrieval.md",
     "chunks and  adding chunk_id every chunk.md",
     "langchain vs llamaindex.md",
-    "Llama3 is a transformer model.md",
     "llm lerde rag nedir.md",
     "mermaid-examples.md",
     "Retrieval Augmented Generation (RAG) app that operates entirely offline.md",
